@@ -34,7 +34,7 @@
 // }
 
 // variables.less
-$theme-primary: #F05F40;
+$theme-primary: #31a097;
 $theme-dark: #222;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
@@ -42,3 +42,9 @@ $theme-dark: #222;
         "mixins",
         "base"
 ;
+
+.modal-body img {
+        width: 100%;
+        height: auto;
+        object-fit: contain; /* lub cover w zależności od efektu */
+    }

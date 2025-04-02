@@ -1,9 +1,11 @@
 # Site settings
 title:
-email:
+email: lechartstudio@wp.pl
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
+instagram: lechartstudio
+phone: +48 661 026 329
 
 twitter_username:
 github_username:
